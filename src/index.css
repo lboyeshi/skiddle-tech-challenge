@@ -1,0 +1,17 @@
+:root {
+  --color-skiddle-1: #46c2bd;
+  --color-skiddle-2: #19aca7;
+  --color-dark-gray: #777;
+  --border-radius-1: 10px;
+
+  --box-shadow-1: 5px 5px 5px 0px rgba(0, 0, 0, 0.05);
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+* {
+  box-sizing: border-box;
+}
